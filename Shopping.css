@@ -1,0 +1,156 @@
+.navbar{
+    background-color: rgba(0, 36, 83, 0.5);
+    height:70px;
+    
+    }
+    .navbar ul{
+        overflow: auto;
+    }
+    .navbar li{
+        float:left;
+        color: white;
+        list-style: none;
+        margin:25px 15px;
+        font-size: 20PX;
+    }
+    li:hover{
+        color:orangered;
+
+    }
+    .das{
+        height:50px;
+        width:50px;
+        margin-top: -15px;
+        margin-left: -10px;
+    }
+    .trolly{
+        height:50px;
+        width:50px;
+
+    }
+    .mm{
+        margin-left: 1400px;
+        margin-top: 20px;
+    }
+    .one{
+        height:600px;
+        width:400px;
+        background-color: orange;
+        margin-top: 1px;
+    }
+    .mypic{
+        height:300px;
+        width:300px;
+        border-radius: 150px;
+        margin-top: 90px;
+        margin-left: 50px;
+    }
+.ol{
+    color: black;
+    margin-left: 95px;
+
+}
+@font-face {
+    font-family: bestschool;
+    src: url("Best\ School\ Font\ by\ Kelik\ \(7NTypes\).otf");
+}
+   *{
+       font-family: bestschool;
+   }
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+}
+.rb{
+    margin-left: -200px;
+    margin-top: -10px;
+}
+.two{
+    height:600px;
+        width:300px;
+        background-color: orange;
+        margin-top: -580px;
+        margin-left: 1220px;
+
+}
+.but{
+    height: 50px;
+    width:250px;
+    margin-top: 50px;
+    border-color: 2px black;
+    color:orange;
+    border-radius: 30px;
+    background-color: black;
+margin-left: 25px;
+font-size: 25px;
+
+
+}
+.three{
+    height:600px;
+        width:820px;
+        background-color: aqua;
+        margin-top: -621px;
+        margin-left: 400px;
+
+}
+body{
+    background-color:orange;
+}
+.mandiv{
+    width:600px;
+    height:300px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, 50%);
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.o9cZv7QDuWsxl6UdiwKdqwHaE9&pid=Api&P=0&w=275&h=185");
+    background-size: 100% 100%;
+   
+    margin-top: -400px;
+    animation: moving 9s infinite linear;
+    margin-left: 50px;
+}
+
+         @keyframes moving{
+             0%{ background-image: url("https://i.pinimg.com/736x/07/81/74/078174531a0238e7000489634555806a.jpg"); }
+             25%{background-image: url("https://tse3.mm.bing.net/th?id=OIP.P26E41S71yO31HkHaoFEvgHaEb&pid=Api&P=0&w=314&h=189");}
+             50%{background-image: url("https://english.cdn.zeenews.com/sites/default/files/2020/10/15/893063-bbd1.jpg"); }
+             75%{background-image: url("https://tse4.mm.bing.net/th?id=OIP.PNRvN1WI0r2Y1QruNQDOVQHaD8&pid=Api&P=0&w=301&h=161");}
+         }
+.off{
+    height:200px;
+    width:200px;
+    margin-left: 55px;
+    margin-top: 350px;
+}
+.tok{
+    margin-top: -60px;
+    font-size: 20px;
+    margin-left: 330px;
+}
+.img1{
+    height: 200px;
+    width:250px;
+    margin-left: 30px;
+}
+h1{
+    color: black;
+}
+.rmby{
+    color:red;
+    margin-left:100px;
+    
+}
+h3{
+    color:navy;
+}
+.ik{
+    color:blue;
+   
+}
+.one2{
+    margin-left: 400px;
+    margin-top: -200px;
+}
